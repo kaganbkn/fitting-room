@@ -1,0 +1,18 @@
+// Common
+"app.name" = "Fitting Room";
+"app.welcome" = "Welcome";
+
+// Buttons
+"button.continue" = "Continue";
+"button.cancel" = "Cancel";
+"button.save" = "Save";
+"button.delete" = "Delete";
+
+// Messages
+"message.loading" = "Loading...";
+"message.error" = "An error occurred";
+"message.success" = "Operation successful";
+
+// Alerts
+"alert.confirmation" = "Are you sure?";
+"alert.warning" = "Warning"; 

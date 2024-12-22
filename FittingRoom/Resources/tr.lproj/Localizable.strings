@@ -1,0 +1,18 @@
+// Common
+"app.name" = "Fitting Room";
+"app.welcome" = "Hoş Geldiniz";
+
+// Buttons
+"button.continue" = "Devam Et";
+"button.cancel" = "İptal";
+"button.save" = "Kaydet";
+"button.delete" = "Sil";
+
+// Messages
+"message.loading" = "Yükleniyor...";
+"message.error" = "Bir hata oluştu";
+"message.success" = "İşlem başarılı";
+
+// Alerts
+"alert.confirmation" = "Emin misiniz?";
+"alert.warning" = "Uyarı"; 
